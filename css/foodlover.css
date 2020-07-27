@@ -1,0 +1,106 @@
+.foot{
+  color: orange;
+  margin-left: 20px;
+}
+.link{
+  color: black;
+}
+.logo{
+  margin-top: 10px;
+}
+
+.footer{
+  margin-bottom: 100px;
+}
+.img{
+  margin-bottom: 20px;
+}
+.gallery{
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.images{
+  margin-top: 20px;
+}
+.container1{
+  background-image: url('../images/17.jpg');
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+  background-size: 1800px;
+}
+.enjoy{
+  margin: 100px 450px 20px 250px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  border-style: solid;
+  border-color: orange; 
+  color: black;
+}
+.price{
+  margin-bottom: 80px;
+}
+.p{
+  color: white;
+}
+
+.head{
+  margin-top: 30px;
+}
+.navbar-inner{
+  background-color: transparent;
+}
+.about{
+  color: white;
+  margin-bottom: 100px;
+  padding-top: 40px;
+}
+
+.jumbo{
+  background-color: orange;
+  height: 250px;
+}
+.a{
+  background-image: url('../images/19.jfif');
+}
+.piz{
+  padding-top: 0px;
+  margin-top: -75px;
+  margin-left: 81px;
+}
+.meal{
+  margin-top: -83px;
+}
+
+.crop{
+  margin-left: 1200px;
+}
+.svg{
+  margin-top: -500px;
+}
+
+.jumb{
+  margin-top: -30px;
+  background-color: black;
+  background-image: url('../images/3.jfif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+.burger{
+  margin-top: -200px;
+  margin-left: 85px;
+}
+.log{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.act{
+  margin-left: 60px
+}
